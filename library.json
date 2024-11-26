@@ -24,11 +24,11 @@
       "platforms": "espressif8266"
     },
     {
-      "owner": "me-no-dev",      
+      "owner": "DerGraff",
       "name": "AsyncTCP",
-      "version": "^1.1.1",
+      "version": "https://github.com/DerGraff/AsyncTCP.git",
       "platforms": "espressif32"
-    },
+    }
     {
       "name": "Hash",
       "platforms": "espressif8266"
