@@ -28,7 +28,7 @@
       "name": "AsyncTCP",
       "version": "https://github.com/DerGraff/AsyncTCP.git",
       "platforms": "espressif32"
-    }
+    },
     {
       "name": "Hash",
       "platforms": "espressif8266"
